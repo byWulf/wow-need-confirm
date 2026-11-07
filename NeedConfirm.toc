@@ -14,6 +14,7 @@
 ## Author: byWulf
 ## Version: @project-version@
 ## X-License: MIT
+## X-Curse-Project-ID: 1789614
 ## IconTexture: Interface\Buttons\UI-GroupLoot-Dice-Up
 
 NeedConfirm.lua
