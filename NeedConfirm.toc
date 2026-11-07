@@ -1,0 +1,19 @@
+## Interface: 16001
+## Title: Need Confirm
+## Notes: Asks for confirmation before you roll Need on group loot. Hold Shift to skip the question.
+## Notes-deDE: Fragt nach, bevor du in der Gruppe auf Bedarf würfelst. Mit gedrückter Umschalttaste ohne Nachfrage.
+## Notes-frFR: Demande une confirmation avant de choisir Besoin sur le butin de groupe. Maintenez Maj pour passer la question.
+## Notes-esES: Pide confirmación antes de tirar Necesidad en el botín de grupo. Mantén Mayús para omitir la pregunta.
+## Notes-esMX: Pide confirmación antes de tirar Necesidad en el botín de grupo. Mantén Mayús para omitir la pregunta.
+## Notes-itIT: Chiede conferma prima di tirare Necessità sul bottino di gruppo. Tieni premuto Maiusc per saltare la domanda.
+## Notes-ptBR: Pede confirmação antes de rolar Necessidade no saque em grupo. Segure Shift para pular a pergunta.
+## Notes-ruRU: Запрашивает подтверждение перед броском «Мне это нужно» при групповой добыче. Удерживайте Shift, чтобы пропустить вопрос.
+## Notes-koKR: 파티 전리품에 입찰하기 전에 확인을 요청합니다. Shift 키를 누르고 있으면 확인 없이 입찰합니다.
+## Notes-zhCN: 在队伍拾取中选择需求前请求确认。按住 Shift 可跳过确认。
+## Notes-zhTW: 在隊伍拾取中選擇需求前要求確認。按住 Shift 可略過確認。
+## Author: byWulf
+## Version: @project-version@
+## X-License: MIT
+## IconTexture: Interface\Buttons\UI-GroupLoot-Dice-Up
+
+NeedConfirm.lua

@@ -1,0 +1,5 @@
+package-as: NeedConfirm
+
+ignore:
+  - AGENTS.md
+  - CLAUDE.md
